@@ -1,0 +1,20 @@
+body {
+
+}
+img {
+  border-radius: 50%;
+	width: 200px;
+	height: 200px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.header {
+
+}
+
+figure{
+  flex-grow: 3;
+  text-align: right;
+
+}
